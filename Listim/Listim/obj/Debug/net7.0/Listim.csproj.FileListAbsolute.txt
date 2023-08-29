@@ -1,0 +1,15 @@
+C:\Users\selim\source\repos\Listim\Listim\bin\Debug\net7.0\Listim.exe
+C:\Users\selim\source\repos\Listim\Listim\bin\Debug\net7.0\Listim.deps.json
+C:\Users\selim\source\repos\Listim\Listim\bin\Debug\net7.0\Listim.runtimeconfig.json
+C:\Users\selim\source\repos\Listim\Listim\bin\Debug\net7.0\Listim.dll
+C:\Users\selim\source\repos\Listim\Listim\bin\Debug\net7.0\Listim.pdb
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.csproj.AssemblyReference.cache
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.AssemblyInfoInputs.cache
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.AssemblyInfo.cs
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.dll
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\refint\Listim.dll
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.pdb
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\Listim.genruntimeconfig.cache
+C:\Users\selim\source\repos\Listim\Listim\obj\Debug\net7.0\ref\Listim.dll
